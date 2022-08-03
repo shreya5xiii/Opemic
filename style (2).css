@@ -1,0 +1,73 @@
+body{
+  background-color:mistyrose;
+}
+
+header{
+  background-color:lightpink;
+  border-radius:25px;
+  
+}
+h1{
+  text-align: center;
+  margin:100px,auto;
+  color:black;
+  }
+.block{
+  color:black;
+  width:70%;
+  height:100px;
+  margin:25px auto;
+  padding:20px;
+  text-align: center;
+  background-color:lightblue;
+  border-radius:0px 70px 0px 70px;
+}
+.sing{
+  width:40%;
+  background-color: moccasin;
+  border:none;
+  border-radius: 25px;
+  margin: 20px
+}
+a{
+  text-decoration: none;
+  color:black;
+  }
+#music{
+  background-color:darkseagreen;
+  color: black;
+}
+#music1{
+  background-color:salmon;
+  color:black;
+}
+h2{
+margin:5px;
+}
+small{
+  padding:0px;
+  
+}
+button:hover{
+  background-color:#f4a380;}
+  a:hover{
+  color:white;
+  }
+footer{
+  width:99%;
+  padding:40px auto;
+  margin:100px 0px 0px 0px;
+  height:60px;
+  text-align: center;
+}
+.au{
+margin:1px;
+padding:1px;
+background-color:sandybrown;
+border-radius:5px;
+
+}
+div, header{
+box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;}
+.sing,.au{
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;}
